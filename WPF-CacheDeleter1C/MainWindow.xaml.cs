@@ -23,7 +23,7 @@ namespace WPF_CacheDeleter1C
     /// </summary>
     public partial class MainWindow : Window
     {
-        string excPath = (Directory.GetCurrentDirectory()) + @"\user-exception.txt";
+        string excPath = (Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + @"\CacheDeleterWPF\user-exception.txt");
 
         // Класс для датагрида
         public class UserGrid
@@ -73,6 +73,8 @@ namespace WPF_CacheDeleter1C
 
         private void Window_Activated(object sender, EventArgs e)
         {
+            if (Directory.Exists(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + @"\CacheDeleterWPF") == false)
+                Directory.CreateDirectory(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + @"\CacheDeleterWPF");
             IskListBox.Items.Clear();
             //var cth = MessageBox.Show(excPath);
             if (File.Exists(excPath))

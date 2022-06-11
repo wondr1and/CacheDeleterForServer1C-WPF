@@ -43,38 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MaterialDesignColors.dll" size="302080">
-      <assemblyIdentity name="MaterialDesignColors" version="2.0.6.0" publicKeyToken="DF2A72020BD7962A" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>1DYNeG2SHiH57+5/TJLZU3hPXMsZXEnrcY3jbDaZzGo=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MaterialDesignThemes.Wpf.dll" size="9102336">
-      <assemblyIdentity name="MaterialDesignThemes.Wpf" version="4.5.0.0" publicKeyToken="DF2A72020BD7962A" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>v+gr0L5+cIwfskucF47QxfWTGVS0HQxJPRTNQCJaNFE=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WPF-CacheDeleter1C.exe" size="182216">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WPF-CacheDeleter1C.exe" size="3162568">
       <assemblyIdentity name="WPF-CacheDeleter1C" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>76DdGrfON3Md+//eO3UkVBQ/pM4jsuc9bWodfX0H4SA=</dsig:DigestValue>
+        <dsig:DigestValue>ABE47sODhYlIZvgBHgW2TPFQeGkEtqmEpJTDqjpUgRA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

@@ -53,10 +53,6 @@ C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\b
 C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\bin\Debug\WPF-CacheDeleter1C.application
 C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\bin\Debug\WPF-CacheDeleter1C.exe
 C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\bin\Debug\WPF-CacheDeleter1C.pdb
-C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\bin\Debug\MaterialDesignColors.dll
-C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\bin\Debug\MaterialDesignThemes.Wpf.dll
-C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\bin\Debug\MaterialDesignColors.pdb
-C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\bin\Debug\MaterialDesignThemes.Wpf.pdb
 C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\bin\Debug\MaterialDesignThemes.Wpf.xml
 C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\obj\Debug\WPF-CacheDeleter1C.csproj.AssemblyReference.cache
 C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\obj\Debug\WPF-CacheDeleter1C.csproj.SuggestedBindingRedirects.cache
@@ -75,3 +71,5 @@ C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\o
 C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\obj\Debug\WPF-CacheDeleter1C.csproj.CopyComplete
 C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\obj\Debug\WPF-CacheDeleter1C.exe
 C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\obj\Debug\WPF-CacheDeleter1C.pdb
+C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\obj\Debug\WPF-CacheDeleter1C.csproj.Fody.CopyLocal.cache
