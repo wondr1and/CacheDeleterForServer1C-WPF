@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:WPF_CacheDeleter1C"
         mc:Ignorable="d"
         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
-        Title="Чистилище" Height="420" Width="500" ResizeMode="NoResize" Activated="Window_Activated" Icon="/notICO.ico">
+        Title="Чистилище" Height="420" Width="500" ResizeMode="NoResize" Activated="Window_Activated" Icon="/ico_serviko_logo.ico">
     <Grid>
         <TabControl>
             <TabItem Header="1С кэш" Height="30" VerticalAlignment="Bottom" Padding="16,5,16,5" Background="Purple">

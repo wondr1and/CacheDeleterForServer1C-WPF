@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("notico.ico")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("serviko_logo.png")]
 
 

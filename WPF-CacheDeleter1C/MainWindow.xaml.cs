@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Windows.Threading;
 using System.IO;
 
 
@@ -22,8 +23,8 @@ namespace WPF_CacheDeleter1C
     /// </summary>
     public partial class MainWindow : Window
     {
-        readonly string excPath = System.Environment.GetFolderPath(System.Environment.SpecialFolder.ApplicationData) + @"\CacheDeleter\user-exception.txt";
-        
+        string excPath = (Directory.GetCurrentDirectory()) + @"\user-exception.txt";
+
         // Класс для датагрида
         public class UserGrid
         {
@@ -72,15 +73,13 @@ namespace WPF_CacheDeleter1C
 
         private void Window_Activated(object sender, EventArgs e)
         {
-            //Проверяю есть ли папка программы в Роуминге, если нет то создаю
-            if (Directory.Exists(System.Environment.GetFolderPath(System.Environment.SpecialFolder.ApplicationData) + @"\CacheDeleter\")) { }
-            else Directory.CreateDirectory(System.Environment.GetFolderPath(System.Environment.SpecialFolder.ApplicationData) + @"\CacheDeleter\");
-
             IskListBox.Items.Clear();
+            //var cth = MessageBox.Show(excPath);
             if (File.Exists(excPath))
             {              
                 string[] UEList = File.ReadAllLines(excPath);
                 paintUsrExc(UEList);
+                //for (int i = 0; i < UEList.Length; i++) IskListBox.Items.Add(UEList[i]);
             }
             else File.WriteAllText(excPath, "Brand new file");
         }
@@ -180,12 +179,13 @@ namespace WPF_CacheDeleter1C
                             }
                         } catch { /* Если возникло это исключение, то пользователь сейчас в 1С? */ }
                     }
-                    CachePB.Value += (100 / (usrDirs.Length - 5));
-                }            
+                    CachePB.Value += (100 / (usrDirs.Length - 4));
+                }
+                MessageBox.Show("Очистка завершена: " + (UselessCounter/2) + " пользователей очищено.");
             }
             catch { MessageBox.Show("Ошибка! Возможно, мне не хватает прав."); }
+
             CachePB.Visibility = Visibility.Hidden;
-            MessageBox.Show("Очистка завершена: " + (UselessCounter/2) + " пользователей очищено.");
         }
 
         //Удаление слова "Поиск..."
@@ -356,15 +356,7 @@ namespace WPF_CacheDeleter1C
                     switch (result)
                     {
                         case MessageBoxResult.Yes:
-                            MessageBoxResult result1 = MessageBox.Show("Точно-точно?", "Удаление пользователя", MessageBoxButton.YesNo);
-                            switch (result1)
-                            {
-                                case MessageBoxResult.Yes:
-                                    FullDelete(tempuser.uName);
-                                    break;
-                                case MessageBoxResult.No:
-                                    break;
-                            }
+                            FullDelete(tempuser.uName);
                             break;
                         case MessageBoxResult.No:
                             break;
@@ -385,9 +377,7 @@ namespace WPF_CacheDeleter1C
                     }
                 }
 
-                MessageBox.Show("Удаление завершено.");
-            }
-            else MessageBox.Show("Вы не выбрали пользователя.");
+            } else MessageBox.Show("Вы не выбрали пользователя.");
             
         }
 

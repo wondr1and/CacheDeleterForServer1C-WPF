@@ -48,28 +48,30 @@ C:\Users\teteryk_n\Desktop\WPF-CacheDeleter1C\WPF-CacheDeleter1C\bin\Debug\WPF-C
 C:\Users\teteryk_n\Desktop\WPF-CacheDeleter1C\WPF-CacheDeleter1C\bin\Debug\WPF-CacheDeleter1C.application
 C:\Users\teteryk_n\Desktop\WPF-CacheDeleter1C\WPF-CacheDeleter1C\obj\Debug\WPF-CacheDeleter1C.exe.manifest
 C:\Users\teteryk_n\Desktop\WPF-CacheDeleter1C\WPF-CacheDeleter1C\obj\Debug\WPF-CacheDeleter1C.application
-C:\Users\nikit\Documents\Visual Studio 2022\Projects\WPF-CacheDeleter1C\WPF-CacheDeleter1C\bin\Debug\WPF-CacheDeleter1C.exe.config
-C:\Users\nikit\Documents\Visual Studio 2022\Projects\WPF-CacheDeleter1C\WPF-CacheDeleter1C\bin\Debug\WPF-CacheDeleter1C.exe.manifest
-C:\Users\nikit\Documents\Visual Studio 2022\Projects\WPF-CacheDeleter1C\WPF-CacheDeleter1C\bin\Debug\WPF-CacheDeleter1C.application
-C:\Users\nikit\Documents\Visual Studio 2022\Projects\WPF-CacheDeleter1C\WPF-CacheDeleter1C\bin\Debug\WPF-CacheDeleter1C.exe
-C:\Users\nikit\Documents\Visual Studio 2022\Projects\WPF-CacheDeleter1C\WPF-CacheDeleter1C\bin\Debug\WPF-CacheDeleter1C.pdb
-C:\Users\nikit\Documents\Visual Studio 2022\Projects\WPF-CacheDeleter1C\WPF-CacheDeleter1C\bin\Debug\MaterialDesignThemes.Wpf.xml
-C:\Users\nikit\Documents\Visual Studio 2022\Projects\WPF-CacheDeleter1C\WPF-CacheDeleter1C\obj\Debug\WPF-CacheDeleter1C.csproj.AssemblyReference.cache
-C:\Users\nikit\Documents\Visual Studio 2022\Projects\WPF-CacheDeleter1C\WPF-CacheDeleter1C\obj\Debug\WPF-CacheDeleter1C.csproj.SuggestedBindingRedirects.cache
-C:\Users\nikit\Documents\Visual Studio 2022\Projects\WPF-CacheDeleter1C\WPF-CacheDeleter1C\obj\Debug\MainWindow.g.cs
-C:\Users\nikit\Documents\Visual Studio 2022\Projects\WPF-CacheDeleter1C\WPF-CacheDeleter1C\obj\Debug\App.g.cs
-C:\Users\nikit\Documents\Visual Studio 2022\Projects\WPF-CacheDeleter1C\WPF-CacheDeleter1C\obj\Debug\WPF-CacheDeleter1C_MarkupCompile.cache
-C:\Users\nikit\Documents\Visual Studio 2022\Projects\WPF-CacheDeleter1C\WPF-CacheDeleter1C\obj\Debug\WPF-CacheDeleter1C_MarkupCompile.lref
-C:\Users\nikit\Documents\Visual Studio 2022\Projects\WPF-CacheDeleter1C\WPF-CacheDeleter1C\obj\Debug\App.baml
-C:\Users\nikit\Documents\Visual Studio 2022\Projects\WPF-CacheDeleter1C\WPF-CacheDeleter1C\obj\Debug\MainWindow.baml
-C:\Users\nikit\Documents\Visual Studio 2022\Projects\WPF-CacheDeleter1C\WPF-CacheDeleter1C\obj\Debug\WPF-CacheDeleter1C.g.resources
-C:\Users\nikit\Documents\Visual Studio 2022\Projects\WPF-CacheDeleter1C\WPF-CacheDeleter1C\obj\Debug\WPF_CacheDeleter1C.Properties.Resources.resources
-C:\Users\nikit\Documents\Visual Studio 2022\Projects\WPF-CacheDeleter1C\WPF-CacheDeleter1C\obj\Debug\WPF-CacheDeleter1C.csproj.GenerateResource.cache
-C:\Users\nikit\Documents\Visual Studio 2022\Projects\WPF-CacheDeleter1C\WPF-CacheDeleter1C\obj\Debug\WPF-CacheDeleter1C.csproj.CoreCompileInputs.cache
-C:\Users\nikit\Documents\Visual Studio 2022\Projects\WPF-CacheDeleter1C\WPF-CacheDeleter1C\obj\Debug\WPF-CacheDeleter1C.exe.manifest
-C:\Users\nikit\Documents\Visual Studio 2022\Projects\WPF-CacheDeleter1C\WPF-CacheDeleter1C\obj\Debug\WPF-CacheDeleter1C.application
-C:\Users\nikit\Documents\Visual Studio 2022\Projects\WPF-CacheDeleter1C\WPF-CacheDeleter1C\obj\Debug\WPF-CacheDeleter1C.csproj.CopyComplete
-C:\Users\nikit\Documents\Visual Studio 2022\Projects\WPF-CacheDeleter1C\WPF-CacheDeleter1C\obj\Debug\WPF-CacheDeleter1C.exe
-C:\Users\nikit\Documents\Visual Studio 2022\Projects\WPF-CacheDeleter1C\WPF-CacheDeleter1C\obj\Debug\WPF-CacheDeleter1C.pdb
-C:\Users\nikit\Documents\Visual Studio 2022\Projects\WPF-CacheDeleter1C\WPF-CacheDeleter1C\bin\Debug\System.Diagnostics.DiagnosticSource.xml
-C:\Users\nikit\Documents\Visual Studio 2022\Projects\WPF-CacheDeleter1C\WPF-CacheDeleter1C\obj\Debug\WPF-CacheDeleter1C.csproj.Fody.CopyLocal.cache
+C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\bin\Debug\WPF-CacheDeleter1C.exe.config
+C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\bin\Debug\WPF-CacheDeleter1C.exe.manifest
+C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\bin\Debug\WPF-CacheDeleter1C.application
+C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\bin\Debug\WPF-CacheDeleter1C.exe
+C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\bin\Debug\WPF-CacheDeleter1C.pdb
+C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\bin\Debug\MaterialDesignColors.dll
+C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\bin\Debug\MaterialDesignColors.pdb
+C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\obj\Debug\WPF-CacheDeleter1C.csproj.AssemblyReference.cache
+C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\obj\Debug\WPF-CacheDeleter1C.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\obj\Debug\MainWindow.g.cs
+C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\obj\Debug\App.g.cs
+C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\obj\Debug\WPF-CacheDeleter1C_MarkupCompile.cache
+C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\obj\Debug\WPF-CacheDeleter1C_MarkupCompile.lref
+C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\obj\Debug\App.baml
+C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\obj\Debug\MainWindow.baml
+C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\obj\Debug\WPF-CacheDeleter1C.g.resources
+C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\obj\Debug\WPF_CacheDeleter1C.Properties.Resources.resources
+C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\obj\Debug\WPF-CacheDeleter1C.csproj.GenerateResource.cache
+C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\obj\Debug\WPF-CacheDeleter1C.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\obj\Debug\WPF-CacheDeleter1C.exe.manifest
+C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\obj\Debug\WPF-CacheDeleter1C.application
+C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\obj\Debug\WPF-CacheDeleter1C.csproj.CopyComplete
+C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\obj\Debug\WPF-CacheDeleter1C.exe
+C:\Users\nikit\Documents\GitHub\CacheDeleterForServer1C-WPF\WPF-CacheDeleter1C\obj\Debug\WPF-CacheDeleter1C.pdb
